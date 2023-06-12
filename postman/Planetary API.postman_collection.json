@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "4ed04050-d107-4b2a-801a-e8218ae73821",
+		"name": "Planetary API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27052182"
+	},
+	"item": [
+		{
+			"name": "Root",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000"
+				}
+			},
+			"response": []
+		}
+	]
+}
